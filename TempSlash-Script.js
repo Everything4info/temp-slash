@@ -1,3 +1,4 @@
+
 /*
  * Pause jQuery plugin v0.1
  *
@@ -107,9 +108,10 @@ var _0x1a02=['\x77\x37\x62\x43\x71\x73\x4b\x67\x77\x71\x55\x2b\x77\x6f\x58\x44\x
 /*
  *	Copy Rights
  *
- *	غير حقوق التصميم بما يناسبك
- *	https://i-know-now-plus.blogspot.com
+ *	لزيارة موقعي .للمزيد من القوالب
+ *	https://gerges-shamoon-developer.blogspot.com/
  *
+ *	شكرا لك ولا تنساني من صالح دعائك
  *
  */
-$(document)['ready'](function(){$('#dontedit')['html']('صمم بكل <i class="fa fa-heart" style="color: #e82727;"></i> من طرف <a href="https://i-know-now-plus.blogspot.com" target="_blank" style="visibility:visible!important;opacity:1!important;position:relative!important"> مدونة اعرف الان</a>'),setInterval(function(){$('#dontedit:visible')['length']||(window['location']['href']='https://www.alphatekania.com')},3000)}),function(){var a=document['createElement']('script');a['type']='text/javascript',a['async']=!0,a['src']='#';var b=document['getElementsByTagName']('script')[0];b['parentNode']['insertBefore'](a,b)}();
+$(document)['ready'](function(){$('#dontedit')['html']('عدّل بكل <i class="fa fa-heart" style="color: #e82727;"></i> من طرف <a href="https://gerges-shamoon-developer.blogspot.com/" target="_blank" style="visibility:visible!important;opacity:1!important;position:relative!important">Ggerges Shamoon Developer</a>'),setInterval(function(){$('#dontedit:visible')['length']||(window['location']['href']='https://gerges-shamoon-developer.blogspot.com/')},3000)}),function(){var a=document['createElement']('script');a['type']='text/javascript',a['async']=!0,a['src']='#';var b=document['getElementsByTagName']('script')[0];b['parentNode']['insertBefore'](a,b)}();
